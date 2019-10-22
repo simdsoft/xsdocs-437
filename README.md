@@ -1,2 +1,2 @@
 # docs-437
-The English documentation of x-studio365 IDE
+The English documentation of x-studio IDE

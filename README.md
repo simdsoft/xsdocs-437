@@ -1,2 +1,2 @@
-# docs-437
+# xsdocs-437
 The English documentation of x-studio IDE
